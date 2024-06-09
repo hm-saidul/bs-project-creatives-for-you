@@ -31,3 +31,7 @@ h1 {
   -o-object-fit: cover !important;
   object-fit: cover !important;
 }
+.large-text {
+  font-size: 64px;
+  font-weight: bold;
+}
